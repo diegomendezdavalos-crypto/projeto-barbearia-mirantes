@@ -1,0 +1,14 @@
+.botao-horario.selected {
+    background-color: #f5b041 !important;
+    color: #000 !important;
+    border-color: #f5b041 !important;
+}
+
+.botao-horario.disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+.bg-black {
+    background-color: #000 !important;
+}
